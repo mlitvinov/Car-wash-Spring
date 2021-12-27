@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'ab0d393d-6660-44d0-9e6f-99b3ab0cd9ed'
 
   # Web app name
-  webAppName: ''
+  webAppName: 'devOps'
 
   # Environment name
   environmentName: 'lmbe'
